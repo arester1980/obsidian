@@ -1,0 +1,1 @@
+Testing work of application when load is increase and keep a long of time
