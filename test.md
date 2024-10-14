@@ -1,2 +1,2 @@
 do you see it on your mobile phone?
-yes. 
+yes. I see it now! 
