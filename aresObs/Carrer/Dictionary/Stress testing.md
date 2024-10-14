@@ -1,1 +1,0 @@
-Evaluates whether the system's performance is as expected when it is low on resources

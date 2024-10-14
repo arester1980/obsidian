@@ -1,1 +1,0 @@
-Team member who is responsible for test-environment set-up
