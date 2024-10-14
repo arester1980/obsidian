@@ -1,0 +1,8 @@
+| Term                    | Definition                                                                                                                                                                          |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| pin the problem         | Involves defining what the process is, the goals of stakeholders, and what previous efforts looked like. The result of pinning is a clear definition of what the problem really is. |
+| identify all issues     | You identify all of the issues using a logic map to highlight the root causes of the problem(s) defined in step 1                                                                   |
+| identify the best guess | Involves reviewing solutions to the issues identified in the logic map and selecting the solution that appears to be the highest priority                                           |
+| analyze the paths       | Do an in-depth of analysis of your best guess on a solution and identify what will be gained by implementing this solution                                                          |
+| pitch a recommendation  | Take your final solution, transform it into a recommendation, and pitch it to your stakeholders                                                                                     |
+| 2x2 matrix              | A tool for prioritizing solutions by dividing them along Impact (low/high) and Ease (low/high) axes                                                                                 |
