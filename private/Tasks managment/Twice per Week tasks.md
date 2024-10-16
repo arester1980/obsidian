@@ -8,3 +8,5 @@
 	* [ ] 1st
 * [ ] Rano
 	* [ ] 1st
+* [ ] [[Links]] - https://www.software-testing.ru/library/testing/test-analysis/4249--boundary-values
+	* [ ] 1st - https://habr.com/ru/articles/840990/

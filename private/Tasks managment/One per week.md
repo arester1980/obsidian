@@ -3,3 +3,4 @@
 * [ ] There is no Skip or Party Podcast / short Arzamas
 * [ ] There is no Details podcast
 * [x] Course on Arzamas
+* [ ] [[Bash]]
