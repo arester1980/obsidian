@@ -72,6 +72,6 @@ ___
 44. Provide details per request
 ##### Just re-fresh
 45. Mobile testing: features that belong to mobile phone (battery, orientation etc.)
-46. Rejected bug ticket: reproducable, add evidence, add details for reproduce
+46. Rejected bug ticket: reproducible, add evidence, add details for reproduce
 47. Watch session
 
