@@ -13,3 +13,5 @@
 13. [How to subscribe to the new positions on Opportunities? We're pleased to announce a new feature - the 'Bench Auto-Subscription'. Launching on August ...](https://engage.cloud.microsoft/main/org/epam.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjk1OTUzNzQ4Nzg3MjAwMCJ9?trk_copy_link=V2_HTML) TXT+Video > 5 min
 14. [Top five project interview mistakes](https://engage.cloud.microsoft/main/org/epam.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjg1MjE0MzM1ODMzNzAyNCJ9?trk_copy_link=V2_HTML) Video > 5 min
 15. [5 Non-Tech Skills for Engineers to Focus on](https://engage.cloud.microsoft/main/org/epam.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjk5MjUxNDI1NjkyMDU3NiJ9?trk_copy_link=V2_HTML) TXT > 5 min
+16. [Владеешь merge  -  освой и rebase](https://nuancesprog.ru/p/12275/)
+17. 
