@@ -1,4 +1,5 @@
 * [ ] [[Beta Assessment]]
+	* Rejected bug ticket: reproducible, add evidence, add details for reproduce
 * [ ] Радзива "Прудок"
 * [ ] Foundation
 * [x] One Angry Birds
