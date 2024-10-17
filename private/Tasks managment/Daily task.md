@@ -4,7 +4,7 @@
 * [x] One Angry Birds
 * [ ] Wall sit Challenge
 * [ ] Duolingo
-* [ ] Anki "default / important / english"
+* [x] Anki "default / important / english"
 * [ ] Simpsons
 * [ ] There is no News Podcast
 * [ ] English listening (youtube / podcast)
