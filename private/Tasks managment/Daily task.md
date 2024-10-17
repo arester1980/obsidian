@@ -4,7 +4,7 @@
 * [ ] Foundation
 * [x] One Angry Birds
 * [ ] Wall sit Challenge
-* [ ] Duolingo
+* [x] Duolingo
 * [x] Anki "default / important / english"
 * [ ] Simpsons
 * [ ] There is no News Podcast
