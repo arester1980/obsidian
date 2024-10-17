@@ -7,6 +7,6 @@
 * [x] Duolingo
 * [x] Anki "default / important / english"
 * [ ] Simpsons
-* [ ] There is no News Podcast
+* [x] There is no News Podcast
 * [ ] English listening (youtube / podcast)
 * [ ] TG grooming
