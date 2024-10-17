@@ -1,10 +1,10 @@
-* [x] [[Beta Assessment]]
+* [ ] [[Beta Assessment]]
 * [ ] Радзива "Прудок"
-* [x] Foundation
+* [ ] Foundation
 * [x] One Angry Birds
-* [x] Wall sit Challenge
+* [ ] Wall sit Challenge
 * [ ] Duolingo
-* [x] Anki "default / important / english"
+* [ ] Anki "default / important / english"
 * [ ] Simpsons
 * [ ] There is no News Podcast
 * [ ] English listening (youtube / podcast)
