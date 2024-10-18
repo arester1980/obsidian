@@ -14,4 +14,4 @@
 14. [Top five project interview mistakes](https://engage.cloud.microsoft/main/org/epam.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjg1MjE0MzM1ODMzNzAyNCJ9?trk_copy_link=V2_HTML) Video > 5 min
 15. [5 Non-Tech Skills for Engineers to Focus on](https://engage.cloud.microsoft/main/org/epam.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjk5MjUxNDI1NjkyMDU3NiJ9?trk_copy_link=V2_HTML) TXT > 5 min
 16. [Владеешь merge  -  освой и rebase](https://nuancesprog.ru/p/12275/)
-17. 
+17. [Когда ваше приложение умирает – жизненный цикл activity в Android для QA](https://habr.com/ru/articles/830198/)

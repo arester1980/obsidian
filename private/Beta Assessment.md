@@ -57,7 +57,7 @@ ___
 ##### Have to read 
 33. Pyramid of testing
 34. Mitigation and Risk plans
-35. BDD and TBD / TDD etc.
+35. BDD and TBD / TDD etc. [Business driven testing: как тестировщику решать задачи бизнеса](https://habr.com/ru/companies/skbkontur/articles/832218/)
 36. Definition of Done
 37. Definition of Ready
 38. Use css vs json path (pro / cons)
