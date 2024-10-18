@@ -18,7 +18,6 @@
 | Lessons from English textbook                                                                                                                                                             |
 | Galaxy English                                                                                                                                                                            |
 | Chessmate                                                                                                                                                                                 |
-| Rano                                                                                                                                                                                      |
 | [[Links]]                                                                                                                                                                                 |
 | ==__[[One per week]]__==                                                                                                                                                                  |
 | Movie                                                                                                                                                                                     |
@@ -43,4 +42,5 @@
 | Project / Repair Balcony on Orlovo                                                                                                                                                        |
 | Velobike = 1                                                                                                                                                                              |
 | Diary                                                                                                                                                                                     |
+| Rano                                                                                                                                                                                      |
 
