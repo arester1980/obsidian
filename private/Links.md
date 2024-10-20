@@ -1,8 +1,6 @@
 1. https://testengineer.ru/test-cases-for-mobile-numbers/
 2. https://www.software-testing.ru/library/testing/test-analysis/4253-need-a-testing-metric-put-points-on-your-test-cases
-3. [Как писать тест-кейсы, если ненавидишь писать тест-кейсы](https://testengineer.ru/how-to-write-test-cases-when-you-hate-to/)
-4. [Быстрый гайд по тестированию баз данных — testengineer.ru](https://testengineer.ru/database-testing-quick-guide-for-qa/)
-5. [Анализ проблем и «узких горлышек» в тестировании ПО / Хабр (habr.com)](https://habr.com/ru/articles/834754/)
+3. [Анализ проблем и «узких горлышек» в тестировании ПО / Хабр (habr.com)](https://habr.com/ru/articles/834754/)
 6. [Тестируем в микросервисах: TaaS и пять шлюзов качества / Хабр (habr.com)](https://habr.com/ru/companies/avito/articles/835060/)
 7. [Тестирование состояний и переходов / Таблица.. — Видео (vk.com)](https://vk.com/video-211574547_456239311)
 8. [50 вопросов по TestNG на собеседовании в 2024 году (qarocks.ru)](https://qarocks.ru/50-interview-questions-about-testng/)

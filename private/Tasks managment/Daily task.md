@@ -1,6 +1,6 @@
 * [x] [[Beta Assessment]]
 	* Provide details per request
-* [x] Радзива "Прудок"
+* [x] Радзива "Прудок" / Tacitus >= 3pages
 * [x] Foundation
 * [x] One Angry Birds
 * [x] Wall sit Challenge
