@@ -1,7 +1,7 @@
 ⚙️Bash Basics < TG
 
-* [ ] Part 1 of 8 | Access and Navigation
-* [ ] Part 2 of 8 | Creating & Editing Text FIles
+* [x] Part 1 of 8 | Access and Navigation
+* [x] Part 2 of 8 | Creating & Editing Text FIles
 * [ ] Part 3 of 8 | Privileges and Permissions
 * [ ] Part 4 of 8 | Finding Documentation and Files
 * [ ] Part 5 of 8 | User Accounts and Passwords

@@ -1,12 +1,13 @@
 * [ ] [[Beta Assessment]]
 	* Provide details per request
-* [ ] Радзива "Прудок" / Tacitus >= 3pages
-* [ ] Foundation
-* [ ] One Angry Birds
-* [ ] Wall sit Challenge
-* [ ] Duolingo
-* [ ] Anki "default / important / english"
+	* ситуационные задачи - как в реальности
+* [x] Радзива "Прудок" / Tacitus >= 3pages
+* [x] Foundation
+* [x] One Angry Birds
+* [x] Wall sit Challenge
+* [x] Duolingo
+* [x] Anki "default / important / english / bash"
 * [ ] Simpsons
-* [ ] There is no News Podcast
+* [x] There is no News Podcast
 * [ ] English listening (youtube / podcast)
 * [ ] TG grooming
