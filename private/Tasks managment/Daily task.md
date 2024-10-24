@@ -9,9 +9,9 @@
 * [x] Foundation
 * [x] One Angry Birds
 * [x] Wall sit Challenge
-* [ ] Duolingo
+* [x] Duolingo
 * [x] Anki "default / important / english / bash"
 * [ ] Simpsons
 * [x] There is no News Podcast
-* [ ] English listening (youtube / podcast)
+* [x] English listening (youtube / podcast)
 * [x] TG grooming
