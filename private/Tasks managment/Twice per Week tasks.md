@@ -2,7 +2,7 @@
 	* [x] 3rd [Миранда и его триколор](https://diletant.media/articles/45336262/)
 	* [x] 2nd [Еретики при дворе великого князя](https://diletant.media/articles/45268367/)
 	* [x] 1st [Витовт: друг и враг Москвы, Польши, Орды и тевтонцев](https://diletant.media/articles/41085616/)
-* [ ] Lessons from [[english-grammar-in-use_-murphy-r_-2019-5th-394p-.pdf]] - Unit 45 + english_tense
+* [x] Lessons from [[english-grammar-in-use_-murphy-r_-2019-5th-394p-.pdf]] - Unit 45 + english_tense
 	* [x] 1st - Unit 25 + english_tense
 * [ ] Galaxy English
 	* [ ] 1st
